@@ -1,23 +1,21 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="container">
+      <div className="background">
+          <h1 className="titulo">Suhellen Rabello</h1>
+          <h6 className="titulo1">Consultora de imagem e estilo</h6>
+        {/* <p className="text">
+        "Mais de 15 anos de experiência na área de moda."
+        </p> */}
+        <div className='link'>
+          <a href='#'>Meus serviços</a>
+          <a href='https://suhellen-rabello.reservio.com'>Agende</a>
+          <a href='https://wa.me/5521998084845?text=Ol%C3%A1,%20gostaria%20de%20saber%20mais%20sobre%20seus%20trabalhos%20de%20consultoria.'>Whatsapp</a>
+          <a href='https://wa.me/5521985044696?text=Ol%C3%A1,%20gostaria%20de%20adquirir%20um%20uniforme'>Compre Aniss - uniformes</a>
+        </div>
+      </div>
     </div>
   );
 }
