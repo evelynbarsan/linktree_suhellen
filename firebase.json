@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "site": "suhellenconsultoria",
     "public": "public",
     "ignore": [
       "firebase.json",
