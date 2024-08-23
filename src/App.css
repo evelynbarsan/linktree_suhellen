@@ -42,6 +42,7 @@ a {
 }
 a:active{
   background-color: #873B0B;
+  background-image: none;
 }
 
 .titulo{

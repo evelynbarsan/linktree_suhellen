@@ -13,7 +13,6 @@ function App() {
           <a href='#'>Meus serviços</a>
           <a href='https://suhellen-rabello.reservio.com'>Agende</a>
           <a href='https://wa.me/5521998084845?text=Ol%C3%A1,%20gostaria%20de%20saber%20mais%20sobre%20seus%20trabalhos%20de%20consultoria.'>Whatsapp</a>
-          <a href='https://wa.me/5521985044696?text=Ol%C3%A1,%20gostaria%20de%20adquirir%20um%20uniforme'>Compre Aniss - uniformes</a>
         </div>
       </div>
     </div>
